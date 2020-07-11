@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscs on The Radnor Arms</title>
+    <link>radnorarms.github.io/misc/</link>
+    <description>Recent content in Miscs on The Radnor Arms</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 04 Jul 2020 10:49:44 +0100</lastBuildDate>
+    
+	<atom:link href="radnorarms.github.io/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opening Times</title>
+      <link>radnorarms.github.io/misc/opening-times/</link>
+      <pubDate>Sat, 04 Jul 2020 10:49:44 +0100</pubDate>
+      
+      <guid>radnorarms.github.io/misc/opening-times/</guid>
+      <description>Bar          Monday - Tuesday Closed   Wednesday - Saturday 12:00 - 2:30pm  5:30 - 10:00pm   Sunday 12:00 - 2:30pm    Dining-In No bookings for past 8pm please.
+         Monday - Tuesday Closed   Wednesday - Saturday (menu) 5:30 - 8:30pm   Sunday (menu) 12:00 - 3:00pm    Takeaway All takeaways are pre-order only.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+html, body {
+  background: #eee;
+	color: #666;
+	font: 14pt 'IM Fell Double Pica', times, serif;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+a, a:visited {
+	color: #00B7FF;
+}
+
+footer {
+  background: white;
+	font-size: 10pt;
+  position: relative;
+	padding: 10px 20px 10px 20px;
+	width: 920px;
+	float:right;
+	border-bottom: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+
+footer #social {
+  float: right;
+  padding-bottom: 5px;
+}
+
+footer #copyright {
+  float: left;
+}
+
+h2 {
+  float: left;
+  font-size: 48px;
+  font-weight: normal;
+  margin: 70px 50px 40px 50px;
+}
+
+nav {
+  float: right;
+  margin: 98px 50px 0 0;
+}
+
+nav a, nav a:visited {
+	color: #999;
+	font-size: 18px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+nav a:hover {
+  color: #666;
+}
+
+nav li {
+  display: inline;
+}
+
+#banner {
+  background: url('../images/banner.png') 0 -12px;
+  height: 20px;
+  margin: 0 auto;
+  top: 0;
+  width: 960px;
+}
+
+#content {
+  background:white; 
+  border-left: 1px solid #ddd; 
+  border-right: 1px solid #ddd;
+  margin:0 auto;
+  width:960px; 
+}
+
+section footer {
+  background: #a59a8e;
+  height: 230px;
+  margin: 0;
+  padding: 0;
+  width: 960px;
+/*  border: none;*/
+}
+
+.left {
+  float: left;
+  margin: 15px 0 0 50px;  
+}
+
+.right {
+  float: right;
+  margin: 0 60px 40px 0;
+  width: 420px;  
+}

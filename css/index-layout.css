@@ -1,0 +1,101 @@
+
+.address {
+  color: #a59a8e;
+  font-size: 30px;
+}
+
+.bodytext {
+  text-align: justify;
+}
+
+nav a.first {
+  margin-right: 40px;
+}
+
+nav a.last {
+  margin-left: 50px;
+  margin-right: 8px;
+}
+
+.phone {
+  margin: 20px 0 0 0;
+}
+
+span {
+  display: block;
+}
+
+a, a:visited {
+  /*color: #a59a8e;*/
+  text-decoration: none;
+}
+
+#foodrating {
+  width: 148px;
+  margin: 10px;
+  margin-bottom: 50px;
+}
+
+#takeaway {
+  font-size: 22px;
+}
+
+#time {
+  color: #a59a8e;
+}
+
+#times li {
+  list-style: none;
+  margin: 15px 0 0 -40px;
+  padding: 0 0 0 10px;
+  border-left: 1px solid #a59a8e;
+  font-size: 16px;
+}
+
+#map {
+  display: inline-block;
+  float:left;
+  margin: 30px 0 0 50px;
+  width: 360px;
+}
+
+#map img {
+  width: 360px;
+}
+
+#map p {
+  color: #f9f3e6;
+  margin: 5px 0 0 0;
+}
+
+#recommendation {
+  color: #f9f3e6;
+  float: left; 
+  margin: 10px 0 0 70px; 
+  padding: 0; 
+  width: 420px;
+}
+
+#recommendation h3 {
+  padding: 0;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 18px;
+}
+
+#recommendation p {
+  margin: 0;
+  font-size: 26px;
+}
+
+#recommendation p:last-child {
+  float: right;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 18px;
+  margin: 30px 0 0 0;
+}
+
+#seal, .TA_certificateOfExcellence {
+  margin-top: 90px;
+}

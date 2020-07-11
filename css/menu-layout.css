@@ -1,0 +1,77 @@
+
+.address {
+  color: #a59a8e;
+  font-size: 30px;
+}
+
+.bodytext {
+  text-align: justify;
+}
+
+nav a.first {
+  margin-right: 40px;
+}
+
+nav a.last {
+  margin-left: 60px;
+  margin-right: 8px;
+}
+
+h2 {
+  font-size: 72px;
+  margin: 70px 50px 10px 60px;
+}
+
+.panel {
+  margin: 20px 0 0 0;
+}
+
+.panel ul {
+  margin: 0;
+  margin-bottom: 150px;
+  padding: 0;
+  list-style-type: none;
+  width: 250px;
+}
+
+li {
+  font-size: 24px;
+  text-align: right;
+  margin: 0 0 10px 0;
+}
+
+li a, li a:visited {
+  color: #999;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: #666;
+}
+
+footer #address {
+  color: #f9f3e6;
+  display: inline-block;
+  float:left;
+  margin: 20px 0 0 0;
+  width: 230px;
+  text-align: right;
+  font-size: 22px;
+}
+
+footer #address span {
+  display: block;
+}
+
+footer #address .phone {
+  margin: 20px 0 0 0;
+}
+
+#image-panel {
+  display: inline-block;
+  float: right; 
+  margin: 0; 
+  padding: 0; 
+  width: 480px;
+  height: 100%;
+}
