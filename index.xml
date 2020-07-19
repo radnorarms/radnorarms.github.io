@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Weekday (Mon - Sat)</title>
+      <title>Weekday (inc. Sat)</title>
       <link>radnorarms.github.io/menu/lunch/</link>
       <pubDate>Sun, 28 Jun 2020 17:45:55 +0100</pubDate>
       
@@ -30,7 +30,8 @@ Breaded Whitebait - £6 Served with a salad garnish and garlic mayonnaise.</desc
       
       <guid>radnorarms.github.io/menu/takeaway/</guid>
       <description>Weekday Takeaway Menu The takeaway service is only from 5.30pm - 7.00pm (orders must be made by 6.30pm)
- From the Sea          Battered Cod £8.00   Radnor Fishcake £6.00   Scampi £7.00    Burgers &amp;amp; Sausages          Bacon Double Cheese Burger £7.00   Beef Burger £4.00   Cheese Burger £4.</description>
+ From the Sea Please note that fish may contain bones.
+         Battered Cod £8.00   Radnor Fishcake £6.00   Scampi £7.00    Burgers &amp;amp; Sausages          Bacon Double Cheese Burger £7.00   Beef Burger £4.</description>
     </item>
     
     <item>
@@ -72,7 +73,7 @@ Freshly-battered Halloumi (V) - £6 Beer-battered Halloumi cheese served with a 
       <guid>radnorarms.github.io/menu/beers/</guid>
       <description>Beers The Radnor Arms stocks a range of draft and bottled beers (as well as wide range of spirits, wines and soft drinks).
 Our current draft beers are listed below. Guest draft Real Ales (between 1 - 2 on at a time) alter every few weeks, sourced from a variety of local and other extensive brewers.
-Draft Lagers          Amstell (3.8 ABV)   Becks Vier (4.</description>
+Draft Lagers          Amstell (3.8 ABV)   Fosters (4.</description>
     </item>
     
     <item>
@@ -83,33 +84,6 @@ Draft Lagers          Amstell (3.8 ABV)   Becks Vier (4.</description>
       <guid>radnorarms.github.io/misc/opening-times/</guid>
       <description>Bar          Monday - Tuesday Closed   Wednesday - Saturday 12:00 - 2:30pm  5:30 - 10:00pm   Sunday 12:00 - 2:30pm    Dining-In No bookings for past 8pm please.
          Monday - Tuesday Closed   Wednesday - Saturday (menu) 5:30 - 8:30pm   Sunday (menu) 12:00 - 3:00pm    Takeaway All takeaways are pre-order only.</description>
-    </item>
-    
-    <item>
-      <title>Curry Night</title>
-      <link>radnorarms.github.io/event/curry-night/</link>
-      <pubDate>Mon, 29 Jun 2020 18:56:49 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/event/curry-night/</guid>
-      <description>It&amp;rsquo;s our favourite night, you guessed it! Curry night.</description>
-    </item>
-    
-    <item>
-      <title>Games Night</title>
-      <link>radnorarms.github.io/event/games-night/</link>
-      <pubDate>Mon, 29 Jun 2020 18:56:49 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/event/games-night/</guid>
-      <description>It&amp;rsquo;s games night again, this time&amp;hellip; Poker!</description>
-    </item>
-    
-    <item>
-      <title>Reopening</title>
-      <link>radnorarms.github.io/event/reopening/</link>
-      <pubDate>Mon, 29 Jun 2020 18:56:49 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/event/reopening/</guid>
-      <description>We&amp;rsquo;re back in business kids! We cannot wait to welcome you all back</description>
     </item>
     
   </channel>

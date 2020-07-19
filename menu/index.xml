@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Weekday (Mon - Sat)</title>
+      <title>Weekday (inc. Sat)</title>
       <link>radnorarms.github.io/menu/lunch/</link>
       <pubDate>Sun, 28 Jun 2020 17:45:55 +0100</pubDate>
       
@@ -30,7 +30,8 @@ Breaded Whitebait - £6 Served with a salad garnish and garlic mayonnaise.</desc
       
       <guid>radnorarms.github.io/menu/takeaway/</guid>
       <description>Weekday Takeaway Menu The takeaway service is only from 5.30pm - 7.00pm (orders must be made by 6.30pm)
- From the Sea          Battered Cod £8.00   Radnor Fishcake £6.00   Scampi £7.00    Burgers &amp;amp; Sausages          Bacon Double Cheese Burger £7.00   Beef Burger £4.00   Cheese Burger £4.</description>
+ From the Sea Please note that fish may contain bones.
+         Battered Cod £8.00   Radnor Fishcake £6.00   Scampi £7.00    Burgers &amp;amp; Sausages          Bacon Double Cheese Burger £7.00   Beef Burger £4.</description>
     </item>
     
     <item>
@@ -72,7 +73,7 @@ Freshly-battered Halloumi (V) - £6 Beer-battered Halloumi cheese served with a 
       <guid>radnorarms.github.io/menu/beers/</guid>
       <description>Beers The Radnor Arms stocks a range of draft and bottled beers (as well as wide range of spirits, wines and soft drinks).
 Our current draft beers are listed below. Guest draft Real Ales (between 1 - 2 on at a time) alter every few weeks, sourced from a variety of local and other extensive brewers.
-Draft Lagers          Amstell (3.8 ABV)   Becks Vier (4.</description>
+Draft Lagers          Amstell (3.8 ABV)   Fosters (4.</description>
     </item>
     
   </channel>
