@@ -5,10 +5,6 @@
     <link>radnorarms.github.io/categories/</link>
     <description>Recent content in Categories on The Radnor Arms</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    
-	<atom:link href="radnorarms.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="radnorarms.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
