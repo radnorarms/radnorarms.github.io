@@ -8,6 +8,18 @@
     <language>en-gb</language>
     <lastBuildDate>Sun, 28 Jun 2020 11:38:43 +0100</lastBuildDate><atom:link href="radnorarms.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Weekday (inc. Sat)</title>
+      <link>radnorarms.github.io/menu/lunch/</link>
+      <pubDate>Sun, 28 Jun 2020 17:45:55 +0100</pubDate>
+      
+      <guid>radnorarms.github.io/menu/lunch/</guid>
+      <description>Radnor Menu Starters Homemade Soup(s) - Starter: £5 / Main: £7 Usually available, they are served with rustic bread and butter. Please ask at the Bar for the choice(s).
+Breaded Garlic Mushrooms (V) - £5 Breaded Mushrooms served with salad garnish and homemade garlic mayo.
+Halloumi Fries (V) - £6 Served with a salad garnish and sweet chilli dips.
+Breaded Whitebait - £6 Served with a salad garnish and garlic mayonnaise.</description>
+    </item>
+    
+    <item>
       <title>Weekday Takeaway</title>
       <link>radnorarms.github.io/menu/takeaway/</link>
       <pubDate>Sun, 28 Jun 2020 17:46:08 +0100</pubDate>
@@ -16,6 +28,18 @@
       <description>Weekday Takeaway Menu The takeaway service is only from 5.30pm - 7.00pm (orders must be made by 6.30pm)
  From the Sea Please note that fish may contain bones.
          Battered Cod £8.00   Radnor Fishcake £6.00   Scampi £7.00    Burgers &amp;amp; Sausages          Bacon Double Cheese Burger £7.00   Beef Burger £4.</description>
+    </item>
+    
+    <item>
+      <title>Sunday Lunch</title>
+      <link>radnorarms.github.io/menu/lunch-sunday/</link>
+      <pubDate>Sun, 28 Jun 2020 17:46:13 +0100</pubDate>
+      
+      <guid>radnorarms.github.io/menu/lunch-sunday/</guid>
+      <description>Sunday Menu Starters Homemade Soup(s) - Starter: £5 / Main: £7 Served with bread and butter. Please ask at the Bar for the day’s choice(s).
+Breaded Garlic Mushrooms (V) - £5 Breaded Mushrooms served with salad garnish and homemade garlic mayo.
+Filled Potato Shells - £5 Choice of “Bacon and Cheese” or “Roast Peppers and Cheese” filled potato shells (three) served on a bed of salad.
+Freshly-battered Halloumi (V) - £6 Beer-battered Halloumi cheese served with a salad garnish, creamy mayonnaise and cranberry dips.</description>
     </item>
     
     <item>
@@ -54,17 +78,8 @@ Draft Lagers          Amstell (3.8 ABV)   Fosters (4.</description>
       <pubDate>Sat, 04 Jul 2020 10:49:44 +0100</pubDate>
       
       <guid>radnorarms.github.io/misc/opening-times/</guid>
-      <description>Bar          Monday - Saturday 12:00 - 2:30pm  5:30 - 10:00pm   Sunday 12:00 - 2:30pm    Takeaway All takeaways are pre-order only. On weekdays, last orders by 6:30pm please; for Sunday last orders by 2pm on the Saturday.
-         Monday - Saturday (menu) 5:30 - 7:00pm   Sunday (menu) 12:00 - 12:30pm  2:00 - 2:30pm    COVID-19 Constraints Takeaway do need to be pre-ordered and cannot be eaten inside.</description>
-    </item>
-    
-    <item>
-      <title>Reopening</title>
-      <link>radnorarms.github.io/event/reopening/</link>
-      <pubDate>Mon, 29 Jun 2020 18:56:49 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/event/reopening/</guid>
-      <description>Lockdown &lt;em&gt;hopefully&lt;/em&gt; ends; we cannot wait to welcome you all back</description>
+      <description>Bar          Monday - Saturday 12:00 - 2:30pm  5:30 - 10:00pm   Sunday 12:00 - 2:30pm    Dining-In No bookings for past 8pm please.
+         Monday - Saturday (menu) 12:00 - 2pm  5:30 - 8:30pm   Sunday (menu) 12:00 - 3:00pm    Takeaway All takeaways are pre-order only.</description>
     </item>
     
   </channel>
