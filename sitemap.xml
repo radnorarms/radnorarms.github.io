@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>radnorarms.github.io/menu/lunch/</loc>
-    <lastmod>2020-06-28T17:45:55+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>radnorarms.github.io/menu/takeaway/</loc>
     <lastmod>2020-06-28T17:46:08+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>radnorarms.github.io/menu/lunch-sunday/</loc>
-    <lastmod>2020-06-28T17:46:13+01:00</lastmod>
   </url>
   
   <url>
@@ -40,6 +30,11 @@
   <url>
     <loc>radnorarms.github.io/misc/opening-times/</loc>
     <lastmod>2020-07-04T10:49:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>radnorarms.github.io/event/reopening/</loc>
+    <lastmod>2020-06-29T18:56:49+01:00</lastmod>
   </url>
   
   <url>
