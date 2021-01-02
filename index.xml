@@ -8,38 +8,13 @@
     <language>en-gb</language>
     <lastBuildDate>Sun, 28 Jun 2020 11:38:43 +0100</lastBuildDate><atom:link href="radnorarms.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Weekday (inc. Sat)</title>
-      <link>radnorarms.github.io/menu/lunch/</link>
-      <pubDate>Sun, 28 Jun 2020 17:45:55 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/menu/lunch/</guid>
-      <description>Radnor Menu Starters Homemade Soup(s) - Starter: £5 / Main: £7 Served with rustic bread and butter. Please ask at the Bar for the choice(s).
-Breaded Garlic Mushrooms (V) - £5 Served with salad garnish and homemade garlic dip.
-Halloumi Fries (V) - £6 Served with a salad garnish and sweet chilli dips.
-Breaded Whitebait - £6 Served with a salad garnish and garlic mayonnaise.
- From the Pub Board 10oz Rump Steak - £16 Served with onion rings, coleslaw, mushroom &amp;amp; peas (or salad)</description>
-    </item>
-    
-    <item>
       <title>Weekday Takeaway</title>
       <link>radnorarms.github.io/menu/takeaway/</link>
       <pubDate>Sun, 28 Jun 2020 17:46:08 +0100</pubDate>
       
       <guid>radnorarms.github.io/menu/takeaway/</guid>
-      <description>Weekday Takeaway Menu The takeaway service is only from 5.30pm - 6.30pm
+      <description>Weekday Takeaway Menu The takeaway service is only from 5.30pm - 7.30pm
  Burgers &amp;amp; Sausages          Bacon Double Cheese Burger £7.00   Beef Burger £3.00   Cheese Burger £3.50   Southern Chicken Burger £5.00   Southern Chicken Bacon/Cheese Burger £7.00   Spicy Bean Burger(vg) £6.00     From the Sea Please note that fish may contain bones.</description>
-    </item>
-    
-    <item>
-      <title>Sunday Lunch</title>
-      <link>radnorarms.github.io/menu/lunch-sunday/</link>
-      <pubDate>Sun, 28 Jun 2020 17:46:13 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/menu/lunch-sunday/</guid>
-      <description>Sunday Menu Starters Homemade Soup - Starter: £5 / Main: £7 Served with rustic bread and butter. Please ask at the Bar for the choice(s).
-Breaded Garlic Mushrooms (V) - £5 Served with salad garnish and homemade garlic dip.
-Filled Potato Long Boats - £6 Choice of “Bacon and Cheese”, &amp;ldquo;tuna and cheese&amp;rdquo; or “Roast Peppers and Cheese” (V) served on a bed of salad.
-Breaded Whitebait (GF) - £6 Served with a salad garnish and garlic mayonnaise.</description>
     </item>
     
     <item>
@@ -48,37 +23,17 @@ Breaded Whitebait (GF) - £6 Served with a salad garnish and garlic mayonnaise.<
       <pubDate>Sun, 28 Jun 2020 17:46:13 +0100</pubDate>
       
       <guid>radnorarms.github.io/menu/takeaway-sunday/</guid>
-      <description>Sunday Takeaway Menu The takeaway service is from 12pm - 12.30pm and 2pm - 2.30pm (orders must be made by 2pm Saturday)
+      <description>Sunday Takeaway Menu The takeaway service is from 12pm - 2.30pm (orders must be made by 2pm Saturday)
  Roasts          Half Roast Chicken (on the bone) £12.00   Roast Beef £13.00   Roast Lamb £13.50   Pumpkin, Mushroom &amp;amp; Chestnut Roast (v/gf) £10.50   Mushroom, Brie,Hazelnut &amp;amp; Cranberry Wellington £13.50    All Sunday Roasts come with roast potatoes, roast parsnips, homemade Yorkshire Pudding, sage &amp;amp; onion stuffing, cauliflower cheese, and a selection of vegetables.</description>
     </item>
     
     <item>
-      <title>Wine List</title>
-      <link>radnorarms.github.io/menu/wines/</link>
-      <pubDate>Sun, 28 Jun 2020 17:46:20 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/menu/wines/</guid>
-      <description>Wine List White Wine  Coleridge Hill Sauvignon Blanc Pino Grigo Chenin Blanc  Rose Wine  Pino Grigo Blush Zinfandel Blush  Red Wine  Malbec Merlot Shiraz Rioja Reserva  Sparkling Wine  Prosecco Vino Spumante  Dessert Wine  Monbazilliac  </description>
-    </item>
-    
-    <item>
-      <title>Beers</title>
-      <link>radnorarms.github.io/menu/beers/</link>
-      <pubDate>Sun, 28 Jun 2020 17:46:20 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/menu/beers/</guid>
-      <description>Beers The Radnor Arms stocks a range of draft and bottled beers (as well as wide range of spirits, wines and soft drinks).
-Our current draft beers are listed below. Guest draft Real Ales (between 1 - 2 on at a time) alter every few weeks, sourced from a variety of local and other extensive brewers.
-Draft Lagers          Amstell (3.8 ABV)   Fosters (4.</description>
-    </item>
-    
-    <item>
-      <title>Christmas and New Years Eve</title>
-      <link>radnorarms.github.io/event/xmas-newyear/</link>
+      <title>Tier 3: Takeaway Service Only</title>
+      <link>radnorarms.github.io/event/tier-3-takeaway/</link>
       <pubDate>Mon, 02 Nov 2020 18:56:49 +0100</pubDate>
       
-      <guid>radnorarms.github.io/event/xmas-newyear/</guid>
-      <description>We are open on Christmas Eve and New Years Eve</description>
+      <guid>radnorarms.github.io/event/tier-3-takeaway/</guid>
+      <description>Due to the tier system restrictions we are only able to provide a takeaway service at this time.</description>
     </item>
     
     <item>
@@ -88,24 +43,6 @@ Draft Lagers          Amstell (3.8 ABV)   Fosters (4.</description>
       
       <guid>radnorarms.github.io/misc/opening-times/</guid>
       <description>Bar          Monday - Tuesday Closed   Wednesday - Saturday 12:00 - 2:30pm  5:30 - 10:00pm   Sunday 12:00 - 4:30pm             Christmas Eve 12:00 - 10:00pm   Christmas Day Closed   New Years Eve 12:00 - 10:00pm   New Years Day 12:00 - 10:00pm    Dining-In No bookings for past 8pm please.</description>
-    </item>
-    
-    <item>
-      <title>Re-opening</title>
-      <link>radnorarms.github.io/event/reopening/</link>
-      <pubDate>Mon, 29 Jun 2020 18:56:49 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/event/reopening/</guid>
-      <description>Lockdown is over and we can re-open! We cannot wait to welcome you all back</description>
-    </item>
-    
-    <item>
-      <title>Sunday Menu Change</title>
-      <link>radnorarms.github.io/event/menu-change/</link>
-      <pubDate>Mon, 29 Jun 2020 18:56:49 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/event/menu-change/</guid>
-      <description>On Sunday 27th, we&amp;rsquo;ll be running our &lt;em&gt;Weekday&lt;/em&gt; menu instead of the Sunday Roasts</description>
     </item>
     
     <item>

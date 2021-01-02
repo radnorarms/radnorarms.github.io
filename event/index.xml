@@ -8,30 +8,12 @@
     <language>en-gb</language>
     <lastBuildDate>Sun, 28 Jun 2020 17:46:13 +0100</lastBuildDate><atom:link href="radnorarms.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Christmas and New Years Eve</title>
-      <link>radnorarms.github.io/event/xmas-newyear/</link>
+      <title>Tier 3: Takeaway Service Only</title>
+      <link>radnorarms.github.io/event/tier-3-takeaway/</link>
       <pubDate>Mon, 02 Nov 2020 18:56:49 +0100</pubDate>
       
-      <guid>radnorarms.github.io/event/xmas-newyear/</guid>
-      <description>We are open on Christmas Eve and New Years Eve</description>
-    </item>
-    
-    <item>
-      <title>Re-opening</title>
-      <link>radnorarms.github.io/event/reopening/</link>
-      <pubDate>Mon, 29 Jun 2020 18:56:49 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/event/reopening/</guid>
-      <description>Lockdown is over and we can re-open! We cannot wait to welcome you all back</description>
-    </item>
-    
-    <item>
-      <title>Sunday Menu Change</title>
-      <link>radnorarms.github.io/event/menu-change/</link>
-      <pubDate>Mon, 29 Jun 2020 18:56:49 +0100</pubDate>
-      
-      <guid>radnorarms.github.io/event/menu-change/</guid>
-      <description>On Sunday 27th, we&amp;rsquo;ll be running our &lt;em&gt;Weekday&lt;/em&gt; menu instead of the Sunday Roasts</description>
+      <guid>radnorarms.github.io/event/tier-3-takeaway/</guid>
+      <description>Due to the tier system restrictions we are only able to provide a takeaway service at this time.</description>
     </item>
     
   </channel>

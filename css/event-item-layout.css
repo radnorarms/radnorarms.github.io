@@ -18,6 +18,24 @@ h2 {
   color: #999;
 }
 
+table {
+  margin: 30px 0 60px 0;
+}
+
+tr {
+  border-top: 1px solid #ccc;
+  line-height: 32px;
+}
+
+td:first-child {
+  color: #333;
+  width: 380px;
+}
+
+td {
+  color: #666;
+}
+
 ul {
   margin: 0;
   padding: 4px; 
