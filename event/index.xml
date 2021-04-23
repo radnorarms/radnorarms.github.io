@@ -8,12 +8,21 @@
     <language>en-gb</language>
     <lastBuildDate>Sun, 28 Jun 2020 17:46:13 +0100</lastBuildDate><atom:link href="radnorarms.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tier 3: Takeaway Service Only</title>
-      <link>radnorarms.github.io/event/tier-3-takeaway/</link>
+      <title>Inside Opening</title>
+      <link>radnorarms.github.io/event/inside-opening/</link>
       <pubDate>Mon, 02 Nov 2020 18:56:49 +0100</pubDate>
       
-      <guid>radnorarms.github.io/event/tier-3-takeaway/</guid>
-      <description>Due to the tier system restrictions we are only able to provide a takeaway service at this time.</description>
+      <guid>radnorarms.github.io/event/inside-opening/</guid>
+      <description>We&amp;rsquo;re allowed to open inside.</description>
+    </item>
+    
+    <item>
+      <title>Outside Opening</title>
+      <link>radnorarms.github.io/event/outside-opening/</link>
+      <pubDate>Mon, 02 Nov 2020 18:56:49 +0100</pubDate>
+      
+      <guid>radnorarms.github.io/event/outside-opening/</guid>
+      <description>We&amp;rsquo;re allowed to open outside.</description>
     </item>
     
   </channel>
