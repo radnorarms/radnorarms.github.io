@@ -4,17 +4,16 @@
     <title>Events on The Radnor Arms</title>
     <link>radnorarms.github.io/event/</link>
     <description>Recent content in Events on The Radnor Arms</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="radnorarms.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="radnorarms.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opening and Service Times</title>
       <link>radnorarms.github.io/event/opening-service-times/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>radnorarms.github.io/event/opening-service-times/</guid>
       <description>Opening and Services Times may occasionally vary depending on the state of alert with regards to COVID outbreaks</description>
     </item>
-    
   </channel>
 </rss>
